@@ -3,12 +3,24 @@
     <title>IsobelTwigg</title>
     <link href="https://IsobelTwigg.com/feed.xml" rel="self" />
     <link href="https://IsobelTwigg.com" />
-    <updated>2026-11-05T22:59:13+00:00</updated>
+    <updated>2026-11-05T23:31:39+00:00</updated>
     <author>
         <name>Isobel Twigg</name>
     </author>
     <id>https://IsobelTwigg.com</id>
 
+    <entry>
+        <title>The Mummy</title>
+        <author>
+            <name>Isobel Twigg</name>
+        </author>
+        <link href="https://IsobelTwigg.com/the-mummy/"/>
+        <id>https://IsobelTwigg.com/the-mummy/</id>
+
+        <updated>2026-11-05T23:22:45+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Mutation Log: Dionaea Muscipula - 9843</title>
         <author>
@@ -24,7 +36,15 @@
                 <p> </p>
 <p> </p>
 <hr>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/1/IMG_4442-5.jpg" alt="" width="4096" height="4096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/1/IMG_4442-3.jpg" alt="" width="4096" height="4096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-lg.jpg 1024w"></figure>
+<hr>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/1/IMG_4443-2.jpg" alt="" width="4096" height="4096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-lg.jpg 1024w"></figure>
+<hr>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://IsobelTwigg.com/media/posts/1/gallery/IMG_4442-3.jpg" data-size="4096x4096"><img loading="lazy" src="https://IsobelTwigg.com/media/posts/1/gallery/IMG_4442-3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://IsobelTwigg.com/media/posts/1/gallery/IMG_4443-3.jpg" data-size="4096x4096"><img loading="lazy" src="https://IsobelTwigg.com/media/posts/1/gallery/IMG_4443-3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://IsobelTwigg.com/media/posts/1/gallery/small3-4.JPG" data-size="4096x4096"><img loading="lazy" src="https://IsobelTwigg.com/media/posts/1/gallery/small3-4-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
