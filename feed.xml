@@ -24,7 +24,7 @@
                 <p> </p>
 <p> </p>
 <hr>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/1/IMG_4442-5.jpg" alt="" width="4096" height="4096" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-xs.jpg 640w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-sm.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-md.jpg 1024w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-lg.jpg 1366w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-xl.jpg 1600w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-2xl.jpg 1920w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/1/IMG_4442-5.jpg" alt="" width="4096" height="4096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-5-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
