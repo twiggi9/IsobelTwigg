@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://IsobelTwigg.com/sitemap.xml
+Sitemap: https://IsobelTwigg.com/sitemap.xml
