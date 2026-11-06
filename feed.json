@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://IsobelTwigg.com/the-last-centurion/",
+            "url": "https://IsobelTwigg.com/the-last-centurion/",
+            "title": "The Last Centurion",
+            "image": "https://IsobelTwigg.com/media/posts/9/Centurion-Helmet-Front.png",
+            "author": {
+                "name": "Isobel Twigg"
+            },
+            "tags": [
+                   "Gallery"
+            ],
+            "date_published": "2026-11-06T21:46:30+00:00",
+            "date_modified": "2026-11-06T21:46:30+00:00"
+        },
+        {
             "id": "https://IsobelTwigg.com/reptile-skin/",
             "url": "https://IsobelTwigg.com/reptile-skin/",
             "title": "Reptile Skin",
