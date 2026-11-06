@@ -3,12 +3,25 @@
     <title>IsobelTwigg</title>
     <link href="https://IsobelTwigg.com/feed.xml" rel="self" />
     <link href="https://IsobelTwigg.com" />
-    <updated>2026-11-06T21:25:39+00:00</updated>
+    <updated>2026-11-06T21:28:12+00:00</updated>
     <author>
         <name>Isobel Twigg</name>
     </author>
     <id>https://IsobelTwigg.com</id>
 
+    <entry>
+        <title>Reptile Skin</title>
+        <author>
+            <name>Isobel Twigg</name>
+        </author>
+        <link href="https://IsobelTwigg.com/reptile-skin/"/>
+        <id>https://IsobelTwigg.com/reptile-skin/</id>
+        <media:content url="https://IsobelTwigg.com/media/posts/8/h6heh.png" medium="image" />
+
+        <updated>2026-11-06T21:28:12+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Necrotic Flesh Material</title>
         <author>

@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://IsobelTwigg.com/reptile-skin/",
+            "url": "https://IsobelTwigg.com/reptile-skin/",
+            "title": "Reptile Skin",
+            "image": "https://IsobelTwigg.com/media/posts/8/h6heh.png",
+            "author": {
+                "name": "Isobel Twigg"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T21:28:12+00:00",
+            "date_modified": "2026-11-06T21:28:12+00:00"
+        },
+        {
             "id": "https://IsobelTwigg.com/necrotic-flesh-material/",
             "url": "https://IsobelTwigg.com/necrotic-flesh-material/",
             "title": "Necrotic Flesh Material",
