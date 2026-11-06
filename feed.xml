@@ -3,12 +3,37 @@
     <title>IsobelTwigg</title>
     <link href="https://IsobelTwigg.com/feed.xml" rel="self" />
     <link href="https://IsobelTwigg.com" />
-    <updated>2026-11-06T21:17:11+00:00</updated>
+    <updated>2026-11-06T21:22:37+00:00</updated>
     <author>
         <name>Isobel Twigg</name>
     </author>
     <id>https://IsobelTwigg.com</id>
 
+    <entry>
+        <title>Necrotic Flesh Material</title>
+        <author>
+            <name>Isobel Twigg</name>
+        </author>
+        <link href="https://IsobelTwigg.com/necrotic-flesh-material/"/>
+        <id>https://IsobelTwigg.com/necrotic-flesh-material/</id>
+        <media:content url="https://IsobelTwigg.com/media/posts/7/Capture-3.PNG" medium="image" />
+            <category term="Material Creation"/>
+
+        <updated>2026-11-06T21:22:37+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://IsobelTwigg.com/media/posts/7/Capture-3.PNG" class="type:primaryImage" alt="" /></p>
+                <hr>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/7/Capture-2.PNG" alt="" width="561" height="465" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/7/responsive/Capture-2-xs.PNG 300w ,https://IsobelTwigg.com/media/posts/7/responsive/Capture-2-sm.PNG 480w ,https://IsobelTwigg.com/media/posts/7/responsive/Capture-2-md.PNG 768w ,https://IsobelTwigg.com/media/posts/7/responsive/Capture-2-lg.PNG 1024w"></figure>
+<hr>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="2" data-is-empty="false">
+<figure class="gallery__item"><a href="https://IsobelTwigg.com/media/posts/7/gallery/Capture.PNG" data-size="561x465"><img loading="lazy" src="https://IsobelTwigg.com/media/posts/7/gallery/Capture-thumbnail.PNG" alt="" width="561" height="465"></a></figure>
+<figure class="gallery__item"><a href="https://IsobelTwigg.com/media/posts/7/gallery/h.png" data-size="576x445"><img loading="lazy" src="https://IsobelTwigg.com/media/posts/7/gallery/h-thumbnail.png" alt="" width="576" height="445"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Mummy</title>
         <author>
