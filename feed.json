@@ -13,7 +13,7 @@
             "id": "https://IsobelTwigg.com/the-last-centurion/",
             "url": "https://IsobelTwigg.com/the-last-centurion/",
             "title": "The Last Centurion",
-            "image": "https://IsobelTwigg.com/media/posts/9/Centurion-Helmet-Front.png",
+            "image": "https://IsobelTwigg.com/media/posts/9/okok.png",
             "author": {
                 "name": "Isobel Twigg"
             },
@@ -21,7 +21,7 @@
                    "Gallery"
             ],
             "date_published": "2026-11-06T21:46:30+00:00",
-            "date_modified": "2026-11-06T21:46:30+00:00"
+            "date_modified": "2026-11-06T21:48:03+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/reptile-skin/",
@@ -32,9 +32,10 @@
                 "name": "Isobel Twigg"
             },
             "tags": [
+                   "Material Creation"
             ],
             "date_published": "2026-11-06T21:28:12+00:00",
-            "date_modified": "2026-11-06T21:28:12+00:00"
+            "date_modified": "2026-11-06T21:47:58+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/necrotic-flesh-material/",
@@ -49,7 +50,7 @@
                    "Material Creation"
             ],
             "date_published": "2026-11-06T21:22:37+00:00",
-            "date_modified": "2026-11-06T21:25:39+00:00"
+            "date_modified": "2026-11-06T21:48:34+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/the-mummy/",
@@ -64,7 +65,7 @@
                    "Gallery"
             ],
             "date_published": "2026-11-05T23:22:45+00:00",
-            "date_modified": "2026-11-06T21:25:25+00:00"
+            "date_modified": "2026-11-06T21:48:26+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/mutation-log-dionaea-muscipula-9843/",
@@ -79,7 +80,7 @@
                    "Gallery"
             ],
             "date_published": "2026-11-05T22:20:41+00:00",
-            "date_modified": "2026-11-06T21:25:33+00:00"
+            "date_modified": "2026-11-06T21:48:42+00:00"
         }
     ]
 }
