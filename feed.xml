@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>IsobelTwigg</title>
+    <title>Isobel Twigg</title>
     <link href="https://IsobelTwigg.com/feed.xml" rel="self" />
     <link href="https://IsobelTwigg.com" />
     <updated>2026-11-06T21:51:57+00:00</updated>
@@ -20,20 +20,6 @@
             <category term="Gallery"/>
 
         <updated>2026-11-06T21:46:30+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Reptile Skin</title>
-        <author>
-            <name>Isobel Twigg</name>
-        </author>
-        <link href="https://IsobelTwigg.com/reptile-skin/"/>
-        <id>https://IsobelTwigg.com/reptile-skin/</id>
-        <media:content url="https://IsobelTwigg.com/media/posts/8/h6heh.png" medium="image" />
-            <category term="Material Creation"/>
-
-        <updated>2026-11-06T21:28:12+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>

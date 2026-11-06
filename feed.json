@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "IsobelTwigg",
+    "title": "Isobel Twigg",
     "description": "",
     "home_page_url": "https://IsobelTwigg.com",
     "feed_url": "https://IsobelTwigg.com/feed.json",
@@ -22,20 +22,6 @@
             ],
             "date_published": "2026-11-06T21:46:30+00:00",
             "date_modified": "2026-11-06T21:48:03+00:00"
-        },
-        {
-            "id": "https://IsobelTwigg.com/reptile-skin/",
-            "url": "https://IsobelTwigg.com/reptile-skin/",
-            "title": "Reptile Skin",
-            "image": "https://IsobelTwigg.com/media/posts/8/h6heh.png",
-            "author": {
-                "name": "Isobel Twigg"
-            },
-            "tags": [
-                   "Material Creation"
-            ],
-            "date_published": "2026-11-06T21:28:12+00:00",
-            "date_modified": "2026-11-06T21:47:58+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/necrotic-flesh-material/",
