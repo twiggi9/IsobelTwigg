@@ -14,26 +14,30 @@
             "url": "https://IsobelTwigg.com/the-mummy/",
             "title": "The Mummy",
             "content_html": "<p> </p>\n<hr>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://IsobelTwigg.com/media/posts/3/Capture-2.jpg\" alt=\"\" width=\"895\" height=\"539\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-md.jpg 768w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-lg.jpg 1024w\"></figure>\n<hr>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://IsobelTwigg.com/media/posts/3/Capture44-2.jpg\" alt=\"\" width=\"862\" height=\"538\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://IsobelTwigg.com/media/posts/3/responsive/Capture44-2-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture44-2-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture44-2-md.jpg 768w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture44-2-lg.jpg 1024w\"></figure>",
+            "image": "https://IsobelTwigg.com/media/posts/3/Capture.jpg",
             "author": {
                 "name": "Isobel Twigg"
             },
             "tags": [
+                   "Gallery"
             ],
             "date_published": "2026-11-05T23:22:45+00:00",
-            "date_modified": "2026-11-05T23:42:39+00:00"
+            "date_modified": "2026-11-06T21:17:11+00:00"
         },
         {
             "id": "https://IsobelTwigg.com/mutation-log-dionaea-muscipula-9843/",
             "url": "https://IsobelTwigg.com/mutation-log-dionaea-muscipula-9843/",
             "title": "Mutation Log: Dionaea Muscipula - 9843",
             "content_html": "<p> </p>\n<p> </p>\n<hr>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://IsobelTwigg.com/media/posts/1/IMG_4442-3.jpg\" alt=\"\" width=\"4096\" height=\"4096\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4442-3-lg.jpg 1024w\"></figure>\n<hr>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://IsobelTwigg.com/media/posts/1/IMG_4443-2.jpg\" alt=\"\" width=\"4096\" height=\"4096\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-md.jpg 768w ,https://IsobelTwigg.com/media/posts/1/responsive/IMG_4443-2-lg.jpg 1024w\"></figure>\n<hr>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://IsobelTwigg.com/media/posts/1/gallery/IMG_4442-3.jpg\" data-size=\"4096x4096\"><img loading=\"lazy\" src=\"https://IsobelTwigg.com/media/posts/1/gallery/IMG_4442-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://IsobelTwigg.com/media/posts/1/gallery/IMG_4443-3.jpg\" data-size=\"4096x4096\"><img loading=\"lazy\" src=\"https://IsobelTwigg.com/media/posts/1/gallery/IMG_4443-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://IsobelTwigg.com/media/posts/1/gallery/small3-4.JPG\" data-size=\"4096x4096\"><img loading=\"lazy\" src=\"https://IsobelTwigg.com/media/posts/1/gallery/small3-4-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "image": "https://IsobelTwigg.com/media/posts/1/IMG_4443.jpg",
             "author": {
                 "name": "Isobel Twigg"
             },
             "tags": [
+                   "Gallery"
             ],
             "date_published": "2026-11-05T22:20:41+00:00",
-            "date_modified": "2026-11-05T23:33:08+00:00"
+            "date_modified": "2026-11-06T21:16:41+00:00"
         }
     ]
 }

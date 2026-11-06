@@ -3,7 +3,7 @@
     <title>IsobelTwigg</title>
     <link href="https://IsobelTwigg.com/feed.xml" rel="self" />
     <link href="https://IsobelTwigg.com" />
-    <updated>2026-11-05T23:42:39+00:00</updated>
+    <updated>2026-11-06T21:17:11+00:00</updated>
     <author>
         <name>Isobel Twigg</name>
     </author>
@@ -16,11 +16,14 @@
         </author>
         <link href="https://IsobelTwigg.com/the-mummy/"/>
         <id>https://IsobelTwigg.com/the-mummy/</id>
+        <media:content url="https://IsobelTwigg.com/media/posts/3/Capture.jpg" medium="image" />
+            <category term="Gallery"/>
 
         <updated>2026-11-05T23:22:45+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://IsobelTwigg.com/media/posts/3/Capture.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <hr>
 <figure class="post__image post__image--full"><img loading="lazy"  src="https://IsobelTwigg.com/media/posts/3/Capture-2.jpg" alt="" width="895" height="539" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-xs.jpg 300w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-sm.jpg 480w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-md.jpg 768w ,https://IsobelTwigg.com/media/posts/3/responsive/Capture-2-lg.jpg 1024w"></figure>
@@ -36,11 +39,14 @@
         </author>
         <link href="https://IsobelTwigg.com/mutation-log-dionaea-muscipula-9843/"/>
         <id>https://IsobelTwigg.com/mutation-log-dionaea-muscipula-9843/</id>
+        <media:content url="https://IsobelTwigg.com/media/posts/1/IMG_4443.jpg" medium="image" />
+            <category term="Gallery"/>
 
         <updated>2026-11-05T22:20:41+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://IsobelTwigg.com/media/posts/1/IMG_4443.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <p> </p>
 <hr>
